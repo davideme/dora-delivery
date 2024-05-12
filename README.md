@@ -1,3 +1,6 @@
+---
+title: DORA Delivery Metrics
+---
 **Software Performance Delivery Metrics: Understanding DORA Metrics**
 
 DORA metrics are a set of four key performance indicators developed by the DevOps Research and Assessment (DORA) team, which are widely used to measure the effectiveness of software development teams. These metrics help organizations gauge their DevOps practices' maturity, providing insights into their software delivery performance. The four metrics are:
