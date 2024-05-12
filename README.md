@@ -1,6 +1,7 @@
 ---
 title: DORA Delivery Metrics
 layout: page
+permalink: /
 ---
 **Software Performance Delivery Metrics: Understanding DORA Metrics**
 
