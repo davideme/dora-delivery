@@ -1,3 +1,8 @@
+---
+title: Deployment Frequency
+layout: page
+permalink: /deployment-frequency
+---
 This metric not only reflects the pace at which software can be released but also highlights the effectiveness of the development processes in place. A principal strategy that significantly influences DF is the practice of working in small batches.
 
 ### Working in Small Batches: A Catalyst for High Deployment Frequency
