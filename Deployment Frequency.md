@@ -17,11 +17,10 @@ This metric not only reflects the pace at which software can be released but als
 
 #### **Key Capabilities for Small Changes:**
 
-- **[Continuous Delivery](Continuous%20Delivery):** Ensures that software is always in a releasable state.
+- **[Continuous Deployment](Continuous%20Deployment):** Ensures that software is always in a releasable state.
 - **Streamlined Change Approval:** Simplifies the approval process to avoid bottlenecks.
 - **Database Change Management:** Manages database changes smoothly alongside code changes.
 - **Version Control:** Keeps track of changes and enables rollbacks if necessary.
-- **Deployment Automation:** Automates the deployment process to reduce human error.
 - **Working in Small Batches:** Breaks down tasks to enhance agility and speed.
 - **Flexible Infrastructure:** Supports rapid changes and scaling as needed.
 
