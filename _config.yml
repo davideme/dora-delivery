@@ -2,7 +2,6 @@
 title: Understanding DORA Delivery Metrics
 domain: dora-delivery.dev       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://dora-delivery.dev/  # the base hostname and protocol for your site, e.g. http://example.com
-baseurl: /dora-delivery/      # place folder name if the site is served in a subfolder
 
 # Build settings
 plugins:
