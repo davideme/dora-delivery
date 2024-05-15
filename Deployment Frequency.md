@@ -14,19 +14,27 @@ This metric not only reflects the pace at which software can be released but als
 **Avoidance of the Sunk-Cost Fallacy**: Smaller work units prevent significant commitments to potentially flawed or less impactful ideas. This flexibility allows teams to pivot or abandon strategies based on real-time feedback and performance data without the heavy burden of sunk costs.
 
 **Continuous Delivery and Economic Optimization**: The essence of continuous delivery lies in the ability to push every change to production as soon as possible. Working in small batches is fundamental to this approach, changing the economics of the delivery process. It reduces the batch size and cycle time, thus decreasing the lead time to production and increasing the deployment frequency.
+**Key Capabilities for Small Changes:**
 
-### Strategies for Implementing Small Batches
+- **Continuous Delivery:** Ensures that software is always in a releasable state.
+- **Streamlined Change Approval:** Simplifies the approval process to avoid bottlenecks.
+- **Database Change Management:** Manages database changes smoothly alongside code changes.
+- **Version Control:** Keeps track of changes and enables rollbacks if necessary.
+- **Deployment Automation:** Automates the deployment process to reduce human error.
+- **Working in Small Batches:** Breaks down tasks to enhance agility and speed.
+- **Flexible Infrastructure:** Supports rapid changes and scaling as needed.
 
-**Feature and Product Level Application**: Small batches should be applied both at the feature level and the product level. The concept of a Minimum Viable Product (MVP) is a perfect example of this practice, where a product is built with the minimal features necessary to gather validated learning about the product and its continued development.
+**Strategies for Implementing Small Batches**
 
-**INVEST Principle**: This principle can guide the breakdown of tasks into small batches:
+**Feature and Product Level Application:** Apply small batches at both the feature and product levels. The concept of a Minimum Viable Product (MVP) exemplifies this practice, building a product with minimal features necessary to gather validated learning for continued development.
 
-- **Independent**: Decouple batches from one another to ensure that they can be developed, tested, and deployed independently.
-- **Negotiable**: Keep the scope flexible to adapt based on feedback and discoveries.
-- **Valuable**: Each batch must deliver value to stakeholders.
-- **Estimable**: Batches should be small enough to allow for accurate estimation of effort.
-- **Small**: Aim for completion within a few days to a week at most.
-- **Testable**: Each batch must be testable to ensure it performs as expected.
+**INVEST Principle:** This principle guides the breakdown of tasks into small batches:
+- **Independent:** Decouple batches to ensure independent development, testing, and deployment.
+- **Negotiable:** Keep the scope flexible to adapt based on feedback and discoveries.
+- **Valuable:** Each batch must deliver value to stakeholders.
+- **Estimable:** Ensure batches are small enough for accurate effort estimation.
+- **Small:** Aim for completion within a few days to a week at most.
+- **Testable:** Each batch must be testable to ensure it performs as expected.
 
 ### Common Pitfalls and Solutions
 
