@@ -21,5 +21,5 @@ theme: minima
 
 readme_index:
   enabled:          true
-  remove_originals: false
+  remove_originals: true
   with_frontmatter: false
