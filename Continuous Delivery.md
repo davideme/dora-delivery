@@ -18,7 +18,7 @@ In the realm of continuous deployment (CD), several leading platforms offer robu
 **Considerations:**
 - **Learning Curve:** New users may need time to get accustomed to YAML syntax and workflow configuration.
 
-[#### AWS CodePipeline](https://aws.amazon.com/codepipeline/)
+#### [AWS CodePipeline](https://aws.amazon.com/codepipeline/)
 
 **Overview:** AWS CodePipeline is a continuous integration and continuous delivery service for fast and reliable application updates.
 
@@ -34,7 +34,7 @@ In the realm of continuous deployment (CD), several leading platforms offer robu
 **Considerations:**
 - **Complexity:** Can be complex to set up for users unfamiliar with AWS ecosystem.
 
-[#### Azure Pipelines](https://azure.microsoft.com/en-us/products/devops/pipelines)
+#### [Azure Pipelines](https://azure.microsoft.com/en-us/products/devops/pipelines)
 
 **Overview:** Azure Pipelines, part of the Azure DevOps suite, provides cloud-hosted pipelines for Linux, Windows, and macOS.
 
@@ -50,7 +50,7 @@ In the realm of continuous deployment (CD), several leading platforms offer robu
 **Considerations:**
 - **Cost:** Can become expensive for private repositories with extensive usage.
 
-[#### Google Cloud Build](https://cloud.google.com/build?hl=en)
+#### [Google Cloud Build](https://cloud.google.com/build?hl=en)
 
 **Overview:** Google Cloud Build is a fully managed CI/CD platform that lets you build, test, and deploy applications on Google Cloud.
 
