@@ -14,7 +14,8 @@ This metric not only reflects the pace at which software can be released but als
 **Avoidance of the Sunk-Cost Fallacy**: Smaller work units prevent significant commitments to potentially flawed or less impactful ideas. This flexibility allows teams to pivot or abandon strategies based on real-time feedback and performance data without the heavy burden of sunk costs.
 
 **Continuous Delivery and Economic Optimization**: The essence of continuous delivery lies in the ability to push every change to production as soon as possible. Working in small batches is fundamental to this approach, changing the economics of the delivery process. It reduces the batch size and cycle time, thus decreasing the lead time to production and increasing the deployment frequency.
-**Key Capabilities for Small Changes:**
+
+#### **Key Capabilities for Small Changes:**
 
 - **Continuous Delivery:** Ensures that software is always in a releasable state.
 - **Streamlined Change Approval:** Simplifies the approval process to avoid bottlenecks.
@@ -24,7 +25,7 @@ This metric not only reflects the pace at which software can be released but als
 - **Working in Small Batches:** Breaks down tasks to enhance agility and speed.
 - **Flexible Infrastructure:** Supports rapid changes and scaling as needed.
 
-**Strategies for Implementing Small Batches**
+#### **Strategies for Implementing Small Batches**
 
 **Feature and Product Level Application:** Apply small batches at both the feature and product levels. The concept of a Minimum Viable Product (MVP) exemplifies this practice, building a product with minimal features necessary to gather validated learning for continued development.
 
