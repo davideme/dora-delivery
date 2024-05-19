@@ -20,7 +20,6 @@ This metric not only reflects the pace at which software can be released but als
 - **[Continuous Deployment](Continuous%20Deployment):** Ensures that software is always in a releasable state.
 - **[Streamlined Change Approval](Streamlined%20Change%20Approval):** Simplifies the approval process to avoid bottlenecks.
 - **[Database Change Management](Database%20Change%20Management):** Manages database changes smoothly alongside code changes.
-- **Version Control:** Keeps track of changes and enables rollbacks if necessary.
 - **[Flexible Infrastructure](Flexible%20Infrastructure):** Supports rapid changes and scaling as needed.
 
 #### **Strategies for Implementing Small Batches**
