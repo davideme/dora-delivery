@@ -1,4 +1,4 @@
-### Database Change Management: A Comprehensive Overview Across Languages
+### Database Change Management
 
 Database change management is a critical aspect of modern software development, ensuring that database schema changes are consistently and reliably applied across various environments. This article explores database change management tools for four popular programming languages: Python, Java, C#, and Go.
 
