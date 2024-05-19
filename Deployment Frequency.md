@@ -21,8 +21,7 @@ This metric not only reflects the pace at which software can be released but als
 - **[Streamlined Change Approval](Streamlined%20Change%20Approval):** Simplifies the approval process to avoid bottlenecks.
 - **[Database Change Management](Database%20Change%20Management):** Manages database changes smoothly alongside code changes.
 - **Version Control:** Keeps track of changes and enables rollbacks if necessary.
-- **Working in Small Batches:** Breaks down tasks to enhance agility and speed.
-- **Flexible Infrastructure:** Supports rapid changes and scaling as needed.
+- **[Flexible Infrastructure](Flexible%20Infrastructure):** Supports rapid changes and scaling as needed.
 
 #### **Strategies for Implementing Small Batches**
 
