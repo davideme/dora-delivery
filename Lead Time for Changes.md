@@ -1,7 +1,7 @@
 
 Lead Time for Changes is a critical DevOps metric that measures the amount of time it takes for a commit to get into production. Several technical capabilities directly influence this metric, each contributing to different stages of the software delivery lifecycle. Here, we discuss which of the listed capabilities have a significant impact on reducing the lead time for changes, excluding those already covered under Deployment Frequency: Continuous Delivery, Deployment Automation, Database Change Management, and Flexible Infrastructure.
 
-## Version Control
+## [Version Control](Version%20Control)
 
 **Impact:** Version control systems track changes to the codebase, making it easier to manage and deploy updates. Effective use of version control ensures that changes can be traced, managed, and deployed systematically, reducing the time taken to move from commit to production.
 
