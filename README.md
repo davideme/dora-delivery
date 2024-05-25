@@ -4,7 +4,7 @@ DORA metrics are a set of four key performance indicators developed by the DevOp
 
 1. **[Deployment Frequency](/Deployment%20Frequency) (DF)**: This metric measures how often an organization successfully releases to production. A higher frequency typically indicates a more mature DevOps process. Deployment frequency can vary from multiple deployments per day to less frequent intervals. It serves as an indicator of an organization’s agility and operational efficiency.
 
-2. **Lead Time for Changes (LTC)**: This metric tracks the amount of time it takes for a commit to get into production. Shorter lead times suggest that the organization has streamlined development, testing, and deployment processes, enabling faster delivery of features and fixes. It's a direct reflection of the speed at which a team can deliver value to customers.
+2. **[Lead Time for Changes](Lead%20Time%20for%20Changes) (LTC)**: This metric tracks the amount of time it takes for a commit to get into production. Shorter lead times suggest that the organization has streamlined development, testing, and deployment processes, enabling faster delivery of features and fixes. It's a direct reflection of the speed at which a team can deliver value to customers.
 
 3. **Change Failure Rate (CFR)**: CFR measures the percentage of deployments causing a failure in production, such as outages or service degradation, necessitating a hotfix, rollback, or patch. A lower change failure rate is indicative of higher reliability and stability in the deployment processes and overall product quality.
 
