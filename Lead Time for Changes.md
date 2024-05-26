@@ -5,7 +5,7 @@ Lead Time for Changes is a critical DevOps metric that measures the amount of ti
 
 **Impact:** Version control systems track changes to the codebase, making it easier to manage and deploy updates. Effective use of version control ensures that changes can be traced, managed, and deployed systematically, reducing the time taken to move from commit to production.
 
-## Continuous Integration
+## [Continuous Integration](Continuous%20Integration)
 
 **Impact:** Continuous integration is the practice of merging all developers' working copies to a shared mainline several times a day. This practice helps detect and address integration issues early, reducing delays caused by integration problems and ensuring that code is always in a deployable state.
 
